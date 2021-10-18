@@ -1,0 +1,3 @@
+[submodule "app-potential-crud"]
+	path = app-potential-crud
+	url = https://github.com/CaioCLDias/app-potential-crud.git
